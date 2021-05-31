@@ -1,0 +1,3 @@
+
+
+Basic Python 3 script I made to wrangle and standardize the system directories of my 3D projects. I chose Python as I didn't want to get too locked down into a specific system shell and wanted portability without headaches. Currently, it uses an internal dictionary to handle directories and subdirectories - nothing too fancy. It's capable of being generalized to create project directories for any type of project and isn't limited to 3D stuff. When I get around to it, I might make an XML parsing system or plain text system where I can create more sophisticated directory trees, should my 3Ding or coding warrant that.
